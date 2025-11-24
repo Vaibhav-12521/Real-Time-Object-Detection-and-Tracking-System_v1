@@ -116,15 +116,6 @@ The system displays:
 **Module not found errors:**
 - Install all required packages: `pip install opencv-python numpy ultralytics`
 
-## License
-
-This project uses the Ultralytics YOLOv8 model. Please refer to [Ultralytics License](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) for details.
-
-## Acknowledgments
-
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- OpenCV community
-
 ## Future Enhancements
 
 - [ ] Add video file input support
@@ -133,3 +124,27 @@ This project uses the Ultralytics YOLOv8 model. Please refer to [Ultralytics Lic
 - [ ] Support for custom-trained models
 - [ ] Multi-camera support
 - [ ] Object detection logging
+
+## 🔗 Useful Links
+
+<a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
+</a> 
+&nbsp;
+<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+</a>
+&nbsp;
+<a href="https://github.com/Vaibhav-12521" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
+</a>
+
+
+
+---
+
+Feel free to star ⭐ the repo if you find it helpful!
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=second-largest-problem" alt="visitor badge"/>
+</p>
